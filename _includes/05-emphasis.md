@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*C Java*
+_Nice_
+
+**to**
+__meet u__
+
+_Love **GitHub** OMG_
